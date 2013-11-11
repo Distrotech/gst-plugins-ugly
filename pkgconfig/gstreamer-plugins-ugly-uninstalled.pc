@@ -1,0 +1,13 @@
+prefix=
+exec_prefix=
+libdir=/usr/src/gst-plugins-ugly/gst-plugins-ugly/gst-libs/gst
+includedir=/usr/src/gst-plugins-ugly/gst-plugins-ugly/gst-libs
+pluginsdir=/usr/src/gst-plugins-ugly/gst-plugins-ugly
+
+Name: GStreamer Ugly Plugins, Uninstalled
+Description: Streaming media framework, ugly plugins, uninstalled
+Version: 1.0.9
+Requires: gstreamer-1.0 gstreamer-plugins-base-1.0
+
+Libs:
+Cflags:
